@@ -10,31 +10,24 @@
 
 ## Example Project :  An online Grocery Store :
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : A virtual pet that users can take care of. The pet has needs that the user must manage(hunger, happiness, and energy). The user interacts with the pet by feeding it, playing with it, and putting it to sleep
 
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
+#### As a user, I should be able to do the following :
+- As a user, I should be able to feed my pet
+- As a user, I should be able to play with my pet
+- As a user, I should be able to put my pet to sleep
+- As a user, I should be able to check my pet's status (hunger, happiness, and energy)
+- As a user, I should recieve notification when my pet needs attention
 
 
 
 #### Usage :
- Explain to the user how to use your project . 
+ Explain to the user how to use your project.
  for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+ - feed_pet to feed the pet
+ - play_with to play with the pet
+ - put_sleep to put the bed to sleep
+ - check_ status to check the status of the pet
 
 
 ### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
